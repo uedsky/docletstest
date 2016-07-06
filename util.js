@@ -1,9 +1,9 @@
-'use strict';
 
 /**
  * util
  */
 
+'use strict';
 var util = function() {
   /**
    * [setObj description]
