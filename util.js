@@ -3,8 +3,12 @@
  * util
  */
 
-'use strict';
+/**
+ * hahah
+ * @return {Object} [description]
+ */
 var util = function() {
+  'use strict';
   /**
    * [setObj description]
    * @param {[type]} obj [description]
