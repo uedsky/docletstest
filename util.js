@@ -5,7 +5,7 @@
 
 /**
  * hahah
- * @return {Object} [description]
+ * @return {Object} aaaa
  */
 var util = function() {
   'use strict';
