@@ -88,7 +88,7 @@ var util = function() {
   return {setObj, getObj, key2Func, val, addScript, addCss };
 }();
 
-if(typeof module != 'undefined' && && module.exports) {
+if(typeof module != 'undefined' && module.exports) {
   module.exports = util;
 }
 
