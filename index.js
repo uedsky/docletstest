@@ -5,9 +5,9 @@
 
 /**
  * sum
- * @param  {[type]} a first 
- * @param  {[type]} b second
- * @return {[type]}   sum a + b
+ * @param  {Number} a first 
+ * @param  {Number} b second
+ * @return {Number}   sum a + b
  * @playground
  * var a = require('./index');
  * a(1, 3)
